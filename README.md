@@ -1,5 +1,7 @@
 # Baseball-Sabermetrics
-Emulated Billy Beane and found value in specific players within dataset. 
 
-Found value and replaced players within a baseball player dataset. Filtered for many variables, 
-including at bats, hits, salaries, and injury history.
+Conjured up my inner Billy Beane and found value and baseball efficiency in specific players within a statistical baseball dataset. 
+
+Created my own team, replaced players, and scouted players within a baseball player dataset. Examples of variables I filtered for include, total at bats, total hits, annual salaries, and player injury history.
+
+Data provided by: https://www.baseball-reference.com/
